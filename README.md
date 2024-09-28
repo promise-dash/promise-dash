@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚛️Frontend developer with some backend knowledge<br>🚀Currently building a Full Stack Social Media App<br>🙂Learning new Frameworks and Libraries<br>👨‍💻Looking forward to contributing to openSource<br><br>📈Part-time trader in NSE<br>📑Writing an e-book on stock trading
+⚛️Frontend developer with some backend knowledge<br>🚀Currently building a Full Stack Social Media App<br>🙂Learning new Frameworks and Libraries<br>👨‍💻Looking forward to contributing to openSource
 
 
 ## 🌐 Socials:
